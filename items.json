@@ -1,0 +1,14 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "hoodie",
+        "price": "80000"
+      },
+      {
+        "id": 2,
+        "name": "Sepatu",
+        "price": "120000"
+      }
+    ]
+  }
